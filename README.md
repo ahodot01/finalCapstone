@@ -7,5 +7,5 @@ accurately predict sentiment based on the text data. Despite its demanding natur
 rewarding, offering insights into the capabilities of natural language processing in extracting meaningful insights from 
 unstructured text data. It can be used to analyse any database or more likely certain section/column/row of database. In 
 case of use with another database (.csv/.txt/etc.) some minor adjustments will be needed (Datasets/DataFrame/subset/etc.) 
-to extract data for further semantic analysis. Thanks everyone in Hyperiondev and CoGrammar for making such interesting task. 
+to extract data for further semantic analysis. Thanks everyone in Hyperiondev/CoGrammar staff for making such an interesting task. 
 That was fun! :)
