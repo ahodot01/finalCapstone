@@ -1,4 +1,4 @@
-Sentiment Analysis (of Amazon Product Reviews):
+### Sentiment Analysis (of Amazon Product Reviews)
 This repository contains a Python program developed as part of a Capstone Project (Hyperiondev/CoGrammar Data Science Course) 
 focusing on sentiment analysis of Amazon product reviews (source file/database also added). The aim of this project was to 
 explore how machine learning techniques, specifically using the spaCy library, can be leveraged to determine the semantic 
