@@ -6,6 +6,6 @@ meaning of words used in product reviews. The project spanned over 5 days and in
 accurately predict sentiment based on the text data. Despite its demanding nature, the project was both challenging and 
 rewarding, offering insights into the capabilities of natural language processing in extracting meaningful insights from 
 unstructured text data. It can be used to analyse any database or more likely certain section/column/row of database. In 
-case of use with another database (.csv/.txt/etc.) some minor adjustments will be needed (Datasets/DataFrame/subset/etc.) 
+case of use with another database (.csv/.txt/..) some minor adjustments will be needed (Datasets/DataFrame/subset/..) 
 to extract data for further analysis. Thanks everyone in Hyperiondev/CoGrammar staff for making such an interesting task. 
 That was fun! :)
